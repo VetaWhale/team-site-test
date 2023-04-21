@@ -8,6 +8,7 @@ font-family: 'Roboto', sans-serif;
 */
 @import url("./reset.css");
 @import url("./portfolio.css");
+@import url("./block-6.css");
 
 body {
    width: 100%;
