@@ -26,10 +26,19 @@ h4 {
     margin-top: 35px;
     display: flex;
     justify-content: space-between;
+    gap: 20px;
 }
 .price-list__img__menu {
     width: 254px;
     height: 225px;
+}
+.price-list__img__services {
+    width: 360px;
+    height: 437px;
+}
+.price-list__img {
+    width: 400px;
+    height: 420px;
 }
 .line {
     border: 1px solid #FFFFFF;
