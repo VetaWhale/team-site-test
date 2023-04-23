@@ -1,9 +1,16 @@
-/* Шрифты для нашего сайта */
-/* 
-font-family: 'Nunito', sans-serif;
-font-family: 'Oranienbaum', serif;
-font-family: 'Prata', serif;
-font-family: 'Rammetto One', cursive;
-font-family: 'Roboto', sans-serif;
-*/
+@import url('../css/section-review.css');
+@import url('../css/footer.css');
 
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #0C0B0B;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+p {
+    color: #FFFFFF;
+}
