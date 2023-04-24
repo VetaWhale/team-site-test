@@ -1,0 +1,16 @@
+@import url(../css/header.css);
+@import url(../css/about-team.css);
+@import url(../css/skills.css);
+
+/* Шрифты для нашего сайта */
+/* 
+font-family: 'Nunito', sans-serif;
+font-family: 'Oranienbaum', serif;
+font-family: 'Prata', serif;
+font-family: 'Rammetto One', cursive;
+font-family: 'Roboto', sans-serif;
+*/
+body {
+    background-color: #1e1e1e;
+    color: #fff;
+}
