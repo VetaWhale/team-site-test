@@ -1,0 +1,18 @@
+.section__security {
+    padding-top: 56px;
+}
+.security__wrapper {
+    margin-top: 34px;
+    display: flex;
+    justify-content: space-between;
+    gap: 22px;
+}
+.security__text {
+    font-family: 'Oranienbaum';
+    font-size: 18px;
+    line-height: 21px;
+}
+.security__img {
+    width: 478px;
+    height: 261px;
+}
