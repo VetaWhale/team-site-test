@@ -8,9 +8,3 @@ font-family: 'Prata', serif;
 font-family: 'Rammetto One', cursive;
 font-family: 'Roboto', sans-serif;
 */
-
-@import'../css/business.css';
-@import'../css/product.css';
-body {
-    font-family: 'Roboto', sans-serif;
-}

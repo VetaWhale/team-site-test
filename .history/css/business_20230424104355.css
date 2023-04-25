@@ -1,0 +1,15 @@
+.business {
+    width: 100%;
+    background-color: #0C0B0B;
+    padding-top: 43px;
+    margin: 0 auto;
+}
+
+.business__title {
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+    display: flex;
+    gap: 20px;
+}
