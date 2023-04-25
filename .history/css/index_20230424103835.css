@@ -10,7 +10,3 @@ font-family: 'Roboto', sans-serif;
 */
 
 @import'../css/business.css';
-@import'../css/product.css';
-body {
-    font-family: 'Roboto', sans-serif;
-}
