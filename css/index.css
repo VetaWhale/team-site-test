@@ -1,8 +1,10 @@
 @import url(../css/header.css);
 @import url(../css/about-team.css);
 @import url(../css/skills.css);
-@import url("./portfolio.css");
-@import url("./block-6.css");
+@import url("../portfolio.css");
+@import url("../block-6.css");
+@import url("../block-9.css");
+@import url("../block-10.css");
 
 /* Шрифты для нашего сайта */
 /* 
@@ -16,5 +18,5 @@ body {
    width: 100%;
    height: 100%;
    background-color: #1e1e1e;
-    color: #fff;
+   color: #fff;
 }
