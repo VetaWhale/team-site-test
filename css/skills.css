@@ -1,0 +1,62 @@
+.skills {
+  padding-top: 160px;
+  padding-left: 80px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 800;
+}
+.skills__text {
+  text-align: center;
+  font-size: 36px;
+  line-height: 40px;
+}
+.skills__content {
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-between;
+  gap: 100px;
+  align-items: center;
+}
+.skills__content-title {
+  font-size: 64px;
+  line-height: 60px;
+}
+.skills__content-inner {
+}
+.skills__content-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  row-gap: 50px;
+}
+.skills__content_card {
+  width: calc(50% - 25px);
+}
+.skills__content_card-title {
+  margin-bottom: 15px;
+  font-size: 24px;
+  line-height: 25px;
+}
+.skills__content_card-text {
+  margin-bottom: 15px;
+  font-size: 18px;
+  line-height: 25px;
+  color: #615e5e;
+}
+.skills__content-line {
+  height: 2px;
+  width: 85%;
+  background: linear-gradient(90deg, #a18cd1 0%, #fbc2eb 100%);
+}
+.skills__content_card-link {
+  display: flex;
+  gap: 30px;
+  text-decoration: none;
+  align-items: center;
+  font-size: 36px;
+  line-height: 60px;
+  color: #fff;
+}
