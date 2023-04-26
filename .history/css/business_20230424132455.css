@@ -1,0 +1,42 @@
+.business {
+    width: 100%;
+    background-color: #0C0B0B;
+    padding-top: 43px;
+    margin: 0 auto;
+}
+
+.business__container {
+    width: 100%;
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    gap: 94px;
+    padding-top: 38px;
+    padding-bottom: 158px;
+}
+
+.business__title {
+    display: flex;
+    gap: 20px;
+}
+
+.business__text {
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+}
+
+.business__title-text {}
+
+.business__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 356px;
+    height: 518px;
+    box-shadow: 0px 0px 40px rgba(146, 163, 255, 0.25);
+    border-radius: 63px;
+}

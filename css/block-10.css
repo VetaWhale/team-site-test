@@ -1,0 +1,53 @@
+.wowstart {
+  margin: 0 auto;
+  width: 1440px;
+  height: 587px;
+  background-image: url("../resources/10block.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+}
+.wowstart-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 463px;
+  gap: 29px;
+  margin-left: 770px;
+}
+.wowstart-title {
+  width: 463px;
+  height: 65px;
+  text-align: center;
+  margin-top: 137px;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+  color: #ffffff;
+}
+.wowstart-input {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 33px;
+  width: 424px;
+  background: #ffffff;
+  border: 2px solid #8d8d8d;
+  border-radius: 90px;
+  align-items: flex-start;
+  padding: 15px 22px;
+}
+.wowstart-input:focus {
+  outline: none;
+}
+.wowstart-btn {
+  width: 349px;
+  height: 72px;
+  background: #ff5784;
+  border-radius: 90px;
+  border: none;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  color: #ffffff;
+  cursor: pointer;
+}
