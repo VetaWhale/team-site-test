@@ -1,5 +1,16 @@
+@import url(../css/header.css);
+@import url(../css/about-team.css);
+@import url(../css/skills.css);
+@import url(partners.css);
+@import url(price.css);
+@import url(security.css);
+@import url("../portfolio.css");
+@import url("../block-6.css");
 @import url(../css/tariffs.css);
 @import url(../css/wowstart.css);
+@import url("../block-9.css");
+@import url("../block-10.css");
+
 /* Шрифты для нашего сайта */
 /* 
 font-family: 'Nunito', sans-serif;
@@ -8,10 +19,11 @@ font-family: 'Prata', serif;
 font-family: 'Rammetto One', cursive;
 font-family: 'Roboto', sans-serif;
 */
-
 body {
-   font-family: 'Roboto';
-   background: linear-gradient(0deg, #000000, #000000), #FF5784;
+   width: 100%;
+   height: 100%;
+   background-color: #1e1e1e;
+   color: #fff;
 }
 .container {
    max-width: 1440px;
