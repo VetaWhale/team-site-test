@@ -1,0 +1,59 @@
+.service {
+  margin: 0 auto;
+  width: 1440px;
+}
+.box-service {
+  display: flex;
+  justify-content: center;
+  gap: 102px;
+}
+.title-service {
+  margin: 0 auto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #ada7be;
+  margin-bottom: 52px;
+  margin-top: 31px;
+}
+.service-step {
+  border-radius: 90px;
+  width: 187px;
+  height: 187px;
+  display: flex;
+  align-items: center;
+}
+.step-img {
+  margin: 0 auto;
+}
+.step-one {
+  background: #ff5784;
+}
+.step-two {
+  background: #ffc700;
+}
+.step-three {
+  background: #3d248a;
+}
+.step-four {
+  background: #00d5ff;
+}
+.service-text {
+  margin-top: 38px;
+  display: flex;
+  justify-content: center;
+  gap: 138px;
+  margin-bottom: 90px;
+}
+.service-step-text {
+  width: 154.02px;
+  height: 24.34px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 33px;
+  text-align: center;
+  color: #ada7be;
+  
+}
