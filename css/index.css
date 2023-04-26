@@ -6,6 +6,8 @@
 @import url(security.css);
 @import url("../portfolio.css");
 @import url("../block-6.css");
+@import url(../css/tariffs.css);
+@import url(../css/wowstart.css);
 @import url("../block-9.css");
 @import url("../block-10.css");
 
@@ -22,4 +24,8 @@ body {
    height: 100%;
    background-color: #1e1e1e;
    color: #fff;
+}
+.container {
+   max-width: 1440px;
+   margin: 0 auto;
 }
