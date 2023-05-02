@@ -1,0 +1,53 @@
+.section-review__title-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.section-review__title {
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+}
+
+.reviews {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 129px;
+}
+
+.review {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 46px;
+}
+
+.review-photo {
+    display: inline-block;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+}
+
+.review-photo_pink {
+    background: #FF5784;
+}
+
+.review-photo_yellow {
+    background: #FFC700;
+}
+
+.review-photo_purple {
+    background: #3D248A;
+}
+
+.review-photo_blue {
+    background: #00D5FF;
+}
+
+.review-text {
+    width: 238px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 33px;
+}
