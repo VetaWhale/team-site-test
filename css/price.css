@@ -12,7 +12,7 @@ h4 {
     line-height: 65px;
 }
 .section__price-list {
-    padding-top: 116px;
+    padding: 116px 20px 0px 80px;
 }
 .price-list__wrapper {
     margin-top: 35px;
